@@ -24,12 +24,13 @@ i'm interested in creating experiences that feel more human, intuitive and meani
 sometimes through code, sometimes through design, sometimes through understanding how people think and connect.
 
 ## currently learning
-- front-end development
-- ux/ui design
-- digital communication
-- creative technology
+- javascript
+- html
+- css
+- figma
+- user experience
+- tech support
 
-## tools & interests
-javascript • html • css • figma • social media • user experience • tech support
+## top languages
 
-> “logic builds the structure. sensitivity gives it meaning.”
+![Top Languages](https://ghstats.dev/api/langs?username=romancevirtual&hide_border=true&hide_title=true)
