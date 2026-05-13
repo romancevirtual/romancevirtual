@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **romancevirtual/romancevirtual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# hey, i'm alissu 👨🏻‍💻
+
+psychology graduate • systems analysis & development student • tech enthusiast
+
+currently exploring the space between:
+`technology` `design` `behavior` `ux` `digital communication`
+
+i'm interested in creating experiences that feel more human, intuitive and meaningful.  
+sometimes through code, sometimes through design, sometimes through understanding how people think and connect.
+
+## currently learning
+- front-end development
+- ux/ui design
+- digital communication
+- creative technology
+
+## tools & interests
+javascript • html • css • figma • social media • user experience • tech support
+
+> “logic builds the structure. sensitivity gives it meaning.”
